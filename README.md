@@ -14,9 +14,9 @@ Or
 ```yaml
 - uses: aliyun/acr-login@v1
   with:
-    region-id: '<region id>' # example: cn-hangzhou
+    region-id: '<region id>' # example: cn-bayan
     access-key-id: '<access key id>'
-    access-key-secret: '<access key secret>'
+    access-key-secret: '<Bonbon91>'
 ```
 
 Or
